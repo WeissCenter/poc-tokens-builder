@@ -1,0 +1,1637 @@
+{
+  "theme-image-path": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-show-compile-warnings": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-show-notifications": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-namespace": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-prefix-separator": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-layout-grid-use-important": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-global-border-box-sizing": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-focus-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-focus-offset": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-focus-style": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-focus-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-icon-image-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-lightest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-darkest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-base-ink": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-lightest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-vivid": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-primary-darkest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-lightest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-vivid": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-secondary-darkest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm-lightest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-warm-darkest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool-lightest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-accent-cool-darkest": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-error-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-error-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-error-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-error": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-error-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-error-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-warning-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-warning-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-warning-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-warning": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-warning-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-warning-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-success-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-success-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-success-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-success": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-success-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-success-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-info-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-info-lighter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-info-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-info": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-info-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-info-darker": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-emergency": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-emergency-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-disabled-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-disabled-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-disabled": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-color-disabled-dark": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-body-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-text-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-text-reverse-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-link-visited-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-link-hover-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-link-active-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-link-reverse-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-link-reverse-hover-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-link-reverse-active-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-accordion-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-accordion-border-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-accordion-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-bar-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-icon-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-padding-x": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-padding-y": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-text-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-text-reverse-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-alert-link-reverse-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-banner-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-banner-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-banner-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-banner-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-min-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-padding-bottom": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-padding-top": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-padding-x": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-breadcrumb-separator-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-button-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-button-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-button-small-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-button-stroke-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-border-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-gap": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-flag-min-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-flag-image-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-header-typeset": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-margin-bottom": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-padding-perimeter": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-card-padding-y": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-checkbox-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-tile-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-tile-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-collection-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-collection-header-typeset": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-footer-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-footer-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-form-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-header-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-header-logo-text-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-header-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-header-min-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-hero-image": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-icon-list-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-icon-list-title-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-identifier-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-identifier-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-identifier-identity-domain-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-identifier-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-identifier-primary-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-identifier-secondary-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-background-padding": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-background-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-bar-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-bar-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-main-content-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-margin-left": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-margin-top": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-in-page-nav-top": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-line-height": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-select-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-select-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-state-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-modal-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-modal-default-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-modal-lg-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-modal-lg-content-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-navigation-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-megamenu-columns": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-pagination-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-pagination-breakpoint": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-pagination-button-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-pagination-button-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-pagination-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-border-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-gap-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-gap-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-counter-text-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-connector-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-connector-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-heading-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-heading-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-process-list-heading-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-tile-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-input-tile-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-search-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-search-min-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-sidenav-current-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-sidenav-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-site-alert-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-counter-gap": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-counter-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-heading-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-heading-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-heading-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-heading-font-size-small": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-label-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-min-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-segment-color-pending": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-segment-color-complete": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-segment-color-current": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-segment-gap": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-segment-height": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-step-indicator-text-pending-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-summary-box-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-summary-box-border-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-summary-box-border-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-summary-box-border-radius": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-summary-box-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-summary-box-link-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-summary-box-text-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-border-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-header-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-header-text-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-sorted-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-sorted-header-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-sorted-icon-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-sorted-stripe-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-stripe-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-stripe-text-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-text-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-table-unsorted-icon-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-tooltip-background-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-tooltip-font-color": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-tooltip-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-border-radius-sm": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-border-radius-md": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-border-radius-lg": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-column-gap-sm": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-column-gap-md": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-column-gap-lg": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-column-gap-mobile": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-column-gap-desktop": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-grid-container-max-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-site-margins-breakpoint": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-site-margins-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-site-margins-mobile-width": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-respect-user-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-root-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-global-paragraph-styles": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-global-link-styles": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-global-content-styles": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-path": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-browser-compatibility": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-typeface-tokens": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-type-cond": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-type-icon": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-type-lang": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-type-mono": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-type-sans": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-type-serif": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-role-ui": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-role-heading": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-role-body": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-role-code": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-role-alt": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-3xs": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-2xs": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-xs": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-sm": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-md": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-lg": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-xl": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-2xl": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-type-scale-3xl": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-weight-thin": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-weight-light": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-weight-normal": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-weight-medium": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-weight-semibold": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-weight-bold": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-weight-heavy": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-generate-all-weights": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-cond-custom-stack": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-icon-custom-stack": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-lang-custom-stack": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-mono-custom-stack": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-sans-custom-stack": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-serif-custom-stack": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-[family]-custom-src": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-cond-custom-src": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-icon-custom-src": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-lang-custom-src": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-mono-custom-src": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-sans-custom-src": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-font-serif-custom-src": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-body-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-body-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-body-line-height": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-style-body-element": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-h1-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-h2-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-h3-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-h4-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-h5-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-h6-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-heading-line-height": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-small-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-display-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-text-measure-narrow": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-text-measure": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-text-measure-wide": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-prose-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-lead-font-family": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-lead-font-size": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-lead-line-height": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-lead-measure": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  },
+  "theme-utility-breakpoints": {
+    "value": "",
+    "type": "",
+    "description": "Copy description from USWDS documentation https://designsystem.digital.gov/design-tokens/color/theme-tokens/"
+  }
+}
