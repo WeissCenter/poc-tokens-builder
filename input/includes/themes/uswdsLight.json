@@ -116,761 +116,763 @@
     },
     "primary": {
       "theme-color-primary-family": {
-        "value": "",
+        "value": "blue",
         "type": "color",
-        "description": ""
+        "description": "Color family of ~60% of the non-base color."
       },
       "theme-color-primary-lightest": {
-        "value": "",
+        "value": "blue-10",
         "type": "color",
-        "description": ""
+        "description": "Use grades 0-10."
       },
       "theme-color-primary-lighter": {
-        "value": "",
+        "value": "blue-10",
         "type": "color",
-        "description": ""
+        "description": "Use grades 10-20."
       },
       "theme-color-primary-light": {
-        "value": "",
+        "value": "blue-30",
         "type": "color",
-        "description": ""
+        "description": "Use grades 30-40."
       },
       "theme-color-primary": {
-        "value": "",
+        "value": "blue-60v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 40-60."
       },
       "theme-color-primary-vivid": {
-        "value": "",
+        "value": "blue-warm-60v",
         "type": "color",
-        "description": ""
+        "description": "Use vivid grades 30-60."
       },
       "theme-color-primary-dark": {
-        "value": "",
+        "value": "blue-warm-70v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-70."
       },
       "theme-color-primary-darker": {
-        "value": "",
+        "value": "blue-warm-80v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-90."
       },
       "theme-color-primary-darkest": {
-        "value": "",
+        "value": "blue-warm-90v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 70-90."
       }
     },
     "secondary": {
       "theme-color-secondary-family": {
-        "value": "",
+        "value": "red",
         "type": "color",
-        "description": ""
+        "description": "Color family of ~30% of the non-base color."
       },
       "theme-color-secondary-lightest": {
-        "value": "",
+        "value": "red-cool-10",
         "type": "color",
-        "description": ""
+        "description": "Use grades 0-10."
       },
       "theme-color-secondary-lighter": {
-        "value": "",
+        "value": "red-cool-10",
         "type": "color",
         "description": ""
       },
       "theme-color-secondary-light": {
-        "value": "",
+        "value": "red-30",
         "type": "color",
-        "description": ""
+        "description": "Use grades 30-40."
       },
       "theme-color-secondary": {
-        "value": "",
+        "value": "red-50",
         "type": "color",
-        "description": ""
+        "description": "Use grades 40-60."
       },
       "theme-color-secondary-vivid": {
-        "value": "",
+        "value": "red-cool-50v",
         "type": "color",
-        "description": ""
+        "description": "Use vivid grades 30-60."
       },
       "theme-color-secondary-dark": {
-        "value": "",
+        "value": "red-60v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-70."
       },
       "theme-color-secondary-darker": {
-        "value": "",
+        "value": "red-70v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-90."
       },
       "theme-color-secondary-darkest": {
-        "value": "",
+        "value": "red-80v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 70-90."
       }
     },
-    "accent": {
+    "accent-warm": {
       "theme-color-accent-warm-family": {
-        "value": "",
+        "value": "orange",
         "type": "color",
-        "description": ""
+        "description": "Color family of occasional warm accents."
       },
       "theme-color-accent-warm-lightest": {
-        "value": "",
+        "value": "orange-10",
         "type": "color",
-        "description": ""
+        "description": "Use grades 0-10."
       },
       "theme-color-accent-warm-lighter": {
-        "value": "",
+        "value": "orange-10",
         "type": "color",
-        "description": ""
+        "description": "Use grades 10-20."
       },
       "theme-color-accent-warm-light": {
-        "value": "",
+        "value": "orange-20v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 20-40."
       },
       "theme-color-accent-warm": {
-        "value": "",
+        "value": "orange-30v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 30-60."
       },
       "theme-color-accent-warm-dark": {
-        "value": "",
+        "value": "orange-50v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-70."
       },
       "theme-color-accent-warm-darker": {
-        "value": "",
+        "value": "orange-60",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-90."
       },
       "theme-color-accent-warm-darkest": {
-        "value": "",
+        "value": "orange-80",
         "type": "color",
-        "description": ""
-      },
+        "description": "Use grades 70-90."
+      }
+    },
+    "accent-cool": {
       "theme-color-accent-cool-family": {
-        "value": "",
+        "value": "blue-cool",
         "type": "color",
-        "description": ""
+        "description": "Color family of occasional cool accents."
       },
       "theme-color-accent-cool-lightest": {
-        "value": "",
+        "value": "blue-cool-5v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 0-20."
       },
       "theme-color-accent-cool-lighter": {
-        "value": "",
+        "value": "blue-cool-5v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 10-30."
       },
       "theme-color-accent-cool-light": {
-        "value": "",
+        "value": "blue-cool-20v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 30-40."
       },
       "theme-color-accent-cool": {
-        "value": "",
+        "value": "cyan-30v",
         "type": "color",
         "description": ""
       },
       "theme-color-accent-cool-dark": {
-        "value": "",
+        "value": "blue-cool-40v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-60."
       },
       "theme-color-accent-cool-darker": {
-        "value": "",
+        "value": "blue-cool-60v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-80."
       },
       "theme-color-accent-cool-darkest": {
-        "value": "",
+        "value": "blue-cool-80",
         "type": "color",
-        "description": ""
+        "description": "Use grades 70-100."
       }
     },
     "error": {
       "theme-color-error-family": {
-        "value": "",
+        "value": "red-warm",
         "type": "color",
-        "description": ""
+        "description": "Color family of error messaging."
       },
       "theme-color-error-lighter": {
-        "value": "",
+        "value": "red-warm-10",
         "type": "color",
-        "description": ""
+        "description": "Use grades 10-30."
       },
       "theme-color-error-light": {
-        "value": "",
+        "value": "red-warm-30v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 30-40."
       },
       "theme-color-error": {
-        "value": "",
+        "value": "red-warm-50v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-60."
       },
       "theme-color-error-dark": {
-        "value": "",
+        "value": "red-60v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-70."
       },
       "theme-color-error-darker": {
-        "value": "",
+        "value": "red-70",
         "type": "color",
-        "description": ""
+        "description": "Use grades 70-80."
       }
     },
     "warning": {
       "theme-color-warning-family": {
-        "value": "",
+        "value": "gold",
         "type": "color",
-        "description": ""
+        "description": "Color family of warning messaging."
       },
       "theme-color-warning-lighter": {
-        "value": "",
+        "value": "yellow-5",
         "type": "color",
-        "description": ""
+        "description": "Use grades 0-30."
       },
       "theme-color-warning-light": {
-        "value": "",
+        "value": "yellow-10v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 10-40."
       },
       "theme-color-warning": {
-        "value": "",
+        "value": "gold-20v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-60."
       },
       "theme-color-warning-dark": {
-        "value": "",
+        "value": "gold-30v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-70."
       },
       "theme-color-warning-darker": {
-        "value": "",
+        "value": "gold-50v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 70-80."
       }
     },
     "success": {
       "theme-color-success-family": {
-        "value": "",
+        "value": "green-cool",
         "type": "color",
-        "description": ""
+        "description": "Color family of success messaging."
       },
       "theme-color-success-lighter": {
-        "value": "",
+        "value": "green-cool-5",
         "type": "color",
-        "description": ""
+        "description": "Use grades 0-30."
       },
       "theme-color-success-light": {
-        "value": "",
+        "value": "green-cool-20v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 10-40."
       },
       "theme-color-success": {
-        "value": "",
+        "value": "green-cool-40v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-60."
       },
       "theme-color-success-dark": {
-        "value": "",
+        "value": "green-cool-50v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-70."
       },
       "theme-color-success-darker": {
-        "value": "",
+        "value": "green-cool-60v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 70-80."
       }
     },
     "info": {
       "theme-color-info-family": {
-        "value": "",
+        "value": "cyan",
         "type": "color",
-        "description": ""
+        "description": "Color family of info messaging."
       },
       "theme-color-info-lighter": {
-        "value": "",
+        "value": "cyan-5",
         "type": "color",
-        "description": ""
+        "description": "Use grades 0-30."
       },
       "theme-color-info-light": {
-        "value": "",
+        "value": "cyan-20",
         "type": "color",
-        "description": ""
+        "description": "Use grades 10-40."
       },
       "theme-color-info": {
-        "value": "",
+        "value": "cyan-30v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 50-60."
       },
       "theme-color-info-dark": {
-        "value": "",
+        "value": "cyan-40v",
         "type": "color",
-        "description": ""
+        "description": "Use grades 60-70."
       },
       "theme-color-info-darker": {
-        "value": "",
+        "value": "blue-cool-60",
         "type": "color",
-        "description": ""
+        "description": "Use grades 70-80."
       }
     },
     "emergency": {
       "theme-color-emergency": {
-        "value": "",
+        "value": "red-warm-60v",
         "type": "color",
-        "description": ""
+        "description": "Color family of emergency actions."
       },
       "theme-color-emergency-dark": {
-        "value": "",
+        "value": "red-warm-80",
         "type": "color",
-        "description": ""
+        "description": "Color family of emergency actions."
       }
     },
     "disabled": {
       "theme-color-disabled-family": {
-        "value": "",
+        "value": "gray",
         "type": "color",
-        "description": ""
+        "description": "Color family of disabled actions."
       },
       "theme-color-disabled-light": {
-        "value": "",
+        "value": "gray-10",
         "type": "color",
-        "description": ""
+        "description": "Use grade 10."
       },
       "theme-color-disabled": {
-        "value": "",
+        "value": "gray-20",
         "type": "color",
-        "description": ""
+        "description": "Use grade 20."
       },
       "theme-color-disabled-dark": {
-        "value": "",
+        "value": "gray-30",
         "type": "color",
-        "description": ""
+        "description": "Use grade 30."
       }
     },
     "body": {
       "theme-body-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "white",
+        "type": "color",
+        "description": "Background color of the site body."
       },
       "theme-text-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ink",
+        "type": "color",
+        "description": "Color of body text."
       },
       "theme-text-reverse-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "white",
+        "type": "color",
+        "description": "Color of body text on dark backgrounds."
       }
     },
     "link": {
       "theme-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "primary",
+        "type": "color",
+        "description": "Color for text links."
       },
       "theme-link-visited-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "violet-70v",
+        "type": "color",
+        "description": "Color for :visited text links"
       },
       "theme-link-hover-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "primary-dark",
+        "type": "color",
+        "description": "Color for :hover text links."
       },
       "theme-link-active-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "primary-darker",
+        "type": "color",
+        "description": "Color for :active text links."
       },
       "theme-link-reverse-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lighter",
+        "type": "color",
+        "description": "Color for text links on dark backgrounds."
       },
       "theme-link-reverse-hover-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lightest",
+        "type": "color",
+        "description": "Color for :hover text links on dark backgrounds."
       },
       "theme-link-reverse-active-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "white",
+        "type": "color",
+        "description": "Color for :active text links on dark backgrounds."
       }
     }
   },
   "components": {
     "accordion": {
       "theme-accordion-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "0.5",
+        "type": "units",
+        "description": "Border width of the bordered accordion."
       },
       "theme-accordion-border-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lightest",
+        "type": "color",
+        "description": "Border color of the bordered accordion."
       },
       "theme-accordion-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "body",
+        "type": "family",
+        "description": "Font family of the accordion."
       }
     },
     "alert": {
       "theme-alert-bar-width": {
-        "value": "",
+        "value": "1",
         "type": "",
-        "description": ""
+        "description": "Width of the colored bar to the left of the alert."
       },
       "theme-alert-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the alert."
       },
       "theme-alert-icon-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "4",
+        "type": "units",
+        "description": "Size of the alert icon."
       },
       "theme-alert-padding-x": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2.5",
+        "type": "units",
+        "description": "Padding on the left and right of the alert."
       },
       "theme-alert-padding-y": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2",
+        "type": "units",
+        "description": "Padding on the top and bottom of the alert."
       },
       "theme-alert-text-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Text color on light backgrounds. Default uses text color set in $theme-text-color"
       },
       "theme-alert-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Link color on light backgrounds. Default uses text color set in $theme-text-color"
       },
       "theme-alert-text-reverse-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Text color on dark backgrounds. Default uses reverse text color set in $theme-text-reverse-color."
       },
       "theme-alert-link-reverse-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Link color on dark backgrounds. Default uses reverse link color set in $theme-link-reverse-color."
       }
     },
     "banner": {
       "theme-banner-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lightest",
+        "type": "family",
+        "description": "Background color of the banner and its content."
       },
       "theme-banner-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "The font family of the banner."
       },
       "theme-banner-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "The color of banner link. Add the link color and the system will generate the hover state. Default uses the default link settings calculated from your background color."
       },
       "theme-banner-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "desktop",
+        "type": "unit",
+        "description": "Maximum width of the banner content."
       }
     },
     "breadcrumb": {
       "theme-breadcrumb-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "The background color of the complete breadcrumb bar. Default uses body background color set in $theme-body-background-color."
       },
       "theme-breadcrumb-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "body",
+        "type": "family",
+        "description": "The family of the breadcrumb text."
       },
       "theme-breadcrumb-font-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "sm",
+        "type": "units",
+        "description": "The size of the breadcrumb text."
       },
       "theme-breadcrumb-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "The color of breadcrumb link. Add the link color and the system will generate the hover state. Default uses the default link settings calculated from your background color."
       },
       "theme-breadcrumb-min-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "mobile-lg",
+        "type": "units",
+        "description": "The width at which the breadcrumb displays the full breadcrumb list."
       },
       "theme-breadcrumb-padding-bottom": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2",
+        "type": "units",
+        "description": "Padding below the breadcrumb."
       },
       "theme-breadcrumb-padding-top": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2",
+        "type": "units",
+        "description": "Padding above the breadcrumb."
       },
       "theme-breadcrumb-padding-x": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "0",
+        "type": "units",
+        "description": "Padding to the right and left of the breadcrumb."
       },
       "theme-breadcrumb-separator-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base",
+        "type": "color",
+        "description": "Color of the breadcrumb separator. This value needs AA contrast against the background."
       }
     },
     "button": {
       "theme-button-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the button."
       },
       "theme-button-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "md",
+        "type": "units",
+        "description": "Button border radius for rounded corners."
       },
       "theme-button-small-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "6",
+        "type": "units",
+        "description": "Width of small buttons. Used to define the size of the header search button and small language selector button."
       },
       "theme-button-stroke-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2px",
+        "type": "units",
+        "description": "Stroke width of outline button variants."
       }
     },
     "card": {
       "theme-card-border-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lighter",
+        "type": "color",
+        "description": "Stroke color of card."
       },
       "theme-card-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "lg",
+        "type": "units",
+        "description": "Border radius of card."
       },
       "theme-card-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2px",
+        "type": "units",
+        "description": "Stroke thickness of card."
       },
       "theme-card-gap": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2",
+        "type": "units",
+        "description": "Gap between cards in a card group."
       },
       "theme-card-flag-min-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "tablet",
+        "type": "units",
+        "description": "Width at which flag cards change to horizontal layout."
       },
       "theme-card-flag-image-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "card-lg",
+        "type": "units",
+        "description": "Fixed image width in the card flag variant."
       },
       "theme-card-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "body",
+        "type": "units",
+        "description": "Font family for card body."
       },
       "theme-card-header-typeset": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "'heading', 'lg', 2",
+        "type": "family, size, line-height",
+        "description": "Family, size, and line height of the heading."
       },
       "theme-card-margin-bottom": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "4",
+        "type": "units",
+        "description": "Bottom margin for card."
       },
       "theme-card-padding-perimeter": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "3",
+        "type": "units",
+        "description": "Padding between card elements and card border."
       },
       "theme-card-padding-y": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2",
+        "type": "units",
+        "description": "Vertical padding between card elements."
       }
     },
     "checkbox": {
       "theme-checkbox-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "sm",
+        "type": "units",
+        "description": "Checkbox border radius for rounded corners."
       },
       "theme-input-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Background color for radio and checkbox inputs."
       },
       "theme-input-tile-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "md",
+        "type": "units",
+        "description": "Tile border radius for rounded corners."
       },
       "theme-input-tile-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2px",
+        "type": "units",
+        "description": "Tile border thickness"
       }
     },
     "collection": {
       "theme-collection-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family for collection body."
       },
       "theme-collection-header-typeset": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui, md, 3",
+        "type": "family, size, line-height",
+        "description": "Family, size, and line height of the heading."
       }
     },
     "footer": {
       "theme-footer-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "body",
+        "type": "family",
+        "description": "Font family of the footer."
       },
       "theme-footer-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "desktop",
+        "type": "units",
+        "description": "Maximum width of footer container."
       }
     },
     "form": {
       "theme-form-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the form."
       }
     },
     "header": {
       "theme-header-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the header."
       },
       "theme-header-logo-text-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "33%",
+        "type": "percentage",
+        "description": "Width of the logo text area at desktop width as a percentage of the total header width."
       },
       "theme-header-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "desktop",
+        "type": "units",
+        "description": "Maximum width of the header."
       },
       "theme-header-min-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "desktop",
+        "type": "units",
+        "description": "Breakpoint at which the non-mobile header is shown."
       }
     },
     "hero": {
       "theme-hero-image": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "#{$theme-image-path}/hero.png",
+        "type": "path",
+        "description": "Background image for the hero. Use a path relative to the final project CSS."
       }
     },
     "icon-list": {
       "theme-icon-list-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "body",
+        "type": "family",
+        "description": "Font family of the content text."
       },
       "theme-icon-list-title-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "heading",
+        "type": "family",
+        "description": "Font family of the content title."
       }
     },
     "identifier": {
       "theme-identifier-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-darkest",
+        "type": "color",
+        "description": "The background color of the identifier. Use a color of grade 80 or higher, darker than the section that precedes it."
       },
       "theme-identifier-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "The font family of the identifier."
       },
       "theme-identifier-identity-domain-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-light",
+        "type": "color",
+        "description": "The color of your domain text in the identifier masthead. This should be grade 20-30 in the same family as the $theme-identifier-background-color."
       },
       "theme-identifier-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "desktop",
+        "type": "unit",
+        "description": "The maximum width of the content within the identifier. Use the same max-width as your site footer."
       },
       "theme-identifier-primary-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "The color of the links in the masthead section. Default uses either the standard or reverse link color set with $theme-link-color and $theme-link-reverse-color."
       },
       "theme-identifier-secondary-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-light",
+        "type": "color",
+        "description": "The color of the links in the required links section. This should be grade 20-30 in a gray family."
       }
     },
     "in-page-navigation": {
       "theme-in-page-nav-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Background color of the in-page navigation block. Default uses body background color set in $theme-body-background-color."
       },
       "theme-in-page-nav-background-padding": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2",
+        "type": "unit",
+        "description": "Padding of the in-page navigation block."
       },
       "theme-in-page-nav-background-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "lg",
+        "type": "unit",
+        "description": "The border radius of the in-page navigation block."
       },
       "theme-in-page-nav-bar-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Color of the bar representing the active state of a link in the in-page navigation. Default uses the default link settings calculated from your background color."
       },
       "theme-in-page-nav-bar-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "05",
+        "type": "unit",
+        "description": "Width of the colored bar representing the active state of a link in the in-page navigation."
       },
       "theme-in-page-nav-font-family": {
         "value": "",
