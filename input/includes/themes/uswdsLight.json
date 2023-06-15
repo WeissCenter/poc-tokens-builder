@@ -875,887 +875,897 @@
         "description": "Width of the colored bar representing the active state of a link in the in-page navigation."
       },
       "theme-in-page-nav-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the in-page navigation."
       },
       "theme-in-page-nav-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "The color of the link in the in-page navigation. Default uses the default link settings calculated from your background color."
       },
       "theme-in-page-nav-main-content-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "desktop",
+        "type": "units",
+        "description": "Maximum width of the main element."
       },
       "theme-in-page-nav-margin-left": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "4",
+        "type": "units",
+        "description": "Margin to the left of in-page navigation."
       },
       "theme-in-page-nav-margin-top": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2.5",
+        "type": "unit",
+        "description": "Margin above in-page navigation."
       },
       "theme-in-page-nav-top": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "4",
+        "type": "units",
+        "description": "Distance from top of page to top of navigation when the sticky position is engaged on scroll."
       }
     },
     "input": {
       "theme-input-line-height": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "3",
+        "type": "line-height",
+        "description": "Line-height of input element."
       },
       "theme-input-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "mobile-lg",
+        "type": "units",
+        "description": "Max width of the input element."
       },
       "theme-input-select-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2px",
+        "type": "units",
+        "description": "Border width of selection element for checkbox, radio, and range."
       },
       "theme-input-select-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2.5",
+        "type": "units",
+        "description": "Height and width checkboxes and radio buttons."
       },
       "theme-input-state-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
-      },
-      "theme-modal-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2.5",
+        "type": "units",
+        "description": "Border width of special state inputs (like error state)."
       }
     },
     "modal": {
+      "theme-modal-border-radius": {
+        "value": "lg",
+        "type": "units",
+        "description": "The border radius of the modal window."
+      },
       "theme-modal-default-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "mobile-lg",
+        "type": "units",
+        "description": "Maximum width of large modal window."
       },
       "theme-modal-lg-max-width": {
-        "value": "",
-        "type": "",
+        "value": "tablet-lg",
+        "type": "units",
         "description": ""
       },
       "theme-modal-lg-content-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "tablet",
+        "type": "units",
+        "description": "Maximum width of content area within large modal window."
       }
     },
     "navigation": {
       "theme-navigation-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the navigation."
       },
       "theme-megamenu-columns": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "3",
+        "type": "number",
+        "description": "Number of columns in the megamenu."
       }
     },
     "pagination": {
       "theme-pagination-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "The background color of the entire pagination component."
       },
       "theme-pagination-breakpoint": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "tablet",
+        "type": "units",
+        "description": "Breakpoint at which full pagination displays."
       },
       "theme-pagination-button-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "md",
+        "type": "units",
+        "description": "Default pagination button border radius."
       },
       "theme-pagination-button-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "1px",
+        "type": "units",
+        "description": "Width of button border."
       },
       "theme-pagination-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Default font family for pagination."
       }
     },
     "process-list": {
       "theme-process-list-counter-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "white",
+        "type": "color",
+        "description": "Background color of the counter circle."
       },
       "theme-process-list-counter-border-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ink",
+        "type": "color",
+        "description": "Color of the border around the counter circle."
       },
       "theme-process-list-counter-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "0.5",
+        "type": "units",
+        "description": "Size of the border around the counter circle."
       },
       "theme-process-list-counter-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the counter text."
       },
       "theme-process-list-counter-font-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "lg",
+        "type": "size",
+        "description": "Font size of the counter text."
       },
       "theme-process-list-counter-gap-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "white",
+        "type": "color",
+        "description": "Color of gap between counter and connector. This should the the same as the background color behind the component."
       },
       "theme-process-list-counter-gap-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "0.5",
+        "type": "units",
+        "description": "Size of gap between counter and connector."
       },
       "theme-process-list-counter-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "5",
+        "type": "units",
+        "description": "Size of the counter circle."
       },
       "theme-process-list-counter-text-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ink",
+        "type": "color",
+        "description": "Color of the number text inside the counter circle."
       },
       "theme-process-list-connector-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "primary-lighter",
+        "type": "color",
+        "description": "Color of the connector line between counter circles."
       },
       "theme-process-list-connector-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "1",
+        "type": "units",
+        "description": "Width of the connector line between counter circles."
       },
       "theme-process-list-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the content text."
       },
       "theme-process-list-font-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "sm",
+        "type": "size",
+        "description": "Font size of the content text."
       },
       "theme-process-list-heading-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ink",
+        "type": "color",
+        "description": "Color of the heading text."
       },
       "theme-process-list-heading-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the heading text."
       },
       "theme-process-list-heading-font-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "lg",
+        "type": "size",
+        "description": "Font size of the heading text."
       }
     },
     "radio-buttons": {
       "theme-input-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Background color for radio and checkbox inputs."
       },
       "theme-input-tile-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "md",
+        "type": "units",
+        "description": "Tile border radius for rounded corners."
       },
       "theme-input-tile-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2px",
+        "type": "units",
+        "description": "Tile border thickness."
       }
     },
     "search": {
       "theme-search-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the search."
       },
       "theme-search-min-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "27ch",
+        "type": "units",
+        "description": "Min-width of the search input."
       }
     },
     "sidenav": {
       "theme-sidenav-current-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "0.5",
+        "type": "units",
+        "description": "Width of the current section indicator."
       },
       "theme-sidenav-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the side navigation."
       }
     },
     "site-alert": {
       "theme-site-alert-max-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "desktop",
+        "type": "units",
+        "description": "Maximum width of the site alert content."
       }
     },
     "step-indicator": {
+      "theme-step-indicator-background-color": {
+        "value": "white",
+        "type": "color",
+        "description": "Background color of the component and the gaps around the counters."
+      },
       "theme-step-indicator-counter-gap": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "0.5",
+        "type": "units",
+        "description": "Gap between the counter and the segment."
       },
       "theme-step-indicator-counter-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "0.5",
+        "type": "units",
+        "description": "Size of the border around the pending steps."
       },
-      "theme-step-indicator-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+      "$theme-step-indicator-font-family": {
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the labels and counter numbers."
       },
       "theme-step-indicator-heading-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ui",
+        "type": "family",
+        "description": "Font family of the heading."
       },
       "theme-step-indicator-heading-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ink",
+        "type": "color",
+        "description": "Color of the heading."
       },
       "theme-step-indicator-heading-font-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "lg",
+        "type": "size",
+        "description": "Font size of the heading on screens of $theme-step-indicator-min-width and larger."
       },
       "theme-step-indicator-heading-font-size-small": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "md",
+        "type": "size",
+        "description": "Font size of the heading on screens smaller than $theme-step-indicator-min-width."
       },
       "theme-step-indicator-label-font-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "sm",
+        "type": "size",
+        "description": "Font size of segment labels."
       },
       "theme-step-indicator-min-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "tablet",
+        "type": "unit",
+        "description": "Width at which the component displays large-width features."
       },
       "theme-step-indicator-segment-color-pending": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "gray-40",
+        "type": "color",
+        "description": "Color of pending step segments. Use a grade of 40 more than $step-indicator-background-color."
       },
       "theme-step-indicator-segment-color-complete": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "primary-darker",
+        "type": "color",
+        "description": "Color of complete step segments. Use a grade of at least 60."
       },
       "theme-step-indicator-segment-color-current": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "primary",
+        "type": "color",
+        "description": "Color of the current step segments. Use a grade at least 20 less than $theme-step-indicator-segment-color-complete."
       },
       "theme-step-indicator-segment-gap": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "2px",
+        "type": "units",
+        "description": "Gap between step segments."
       },
       "theme-step-indicator-segment-height": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "1",
+        "type": "units",
+        "description": "Height of the step segment. Note that the mobile segment height is always 1 unit."
       },
       "theme-step-indicator-text-pending-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-dark",
+        "type": "color",
+        "description": "The text color of pending steps. Use a gray grade of 60 more than the $step-indicator-background-color."
       }
     },
     "summary-box": {
       "theme-summary-box-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "info-lighter",
+        "type": "color",
+        "description": "Background color of the Summary box."
       },
       "theme-summary-box-border-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "info-light",
+        "type": "color",
+        "description": "Color the border around the Summary box."
       },
       "theme-summary-box-border-width": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "1px",
+        "type": "border-width",
+        "description": "Width of the border around the Summary box."
       },
       "theme-summary-box-border-radius": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "md",
+        "type": "radius",
+        "description": "Border radius of the summary box."
       },
       "theme-summary-box-font-family": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "family",
+        "description": "Font family of the content text."
       },
       "theme-summary-box-link-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Color of the links inside the content text. When set to “default”, links will get one of three values, based on contrast: $theme-link-color, $theme-link-reverse-color, or “ink”."
       },
       "theme-summary-box-text-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Color of the content text. When set to “default”, text will get one of two values, based on contrast: $theme-text-reverse-color or $theme-text-color."
       }
     },
     "tables": {
       "theme-table-border-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ink",
+        "type": "color",
+        "description": "Defines a border color for table cells. A value of default uses either the default text or reverse text color depending on the site background color."
       },
       "theme-table-header-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lighter",
+        "type": "color",
+        "description": "Defines a background color for header cells."
       },
       "theme-table-header-text-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Defines a text color for header cells. A value of default uses either the default text or reverse text color depending on the header background color."
       },
       "theme-table-sorted-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "accent-cool-lighter",
+        "type": "color",
+        "description": "Defines a background color for the cells of the sorted column."
       },
       "theme-table-sorted-header-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Defines a background color for the sorted column header."
       },
       "theme-table-sorted-icon-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Defines a fill color for the activated sort button in a sortable column header. A value of default uses either the default text or reverse text color depending on the sorted column header background color."
       },
       "theme-table-sorted-stripe-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "blue-cool-10v",
+        "type": "color",
+        "description": "Defines a background color for the alternating horizontal stripes applied to cells of the sorted column."
       },
       "theme-table-stripe-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lightest",
+        "type": "color",
+        "description": "Defines a background color for alternating horizontal stripes in the striped table variant."
       },
       "theme-table-stripe-text-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Defines a text color for alternating horizontal stripes in the striped table variant. A value of default uses either the default text or reverse text color depending on the stripe background color."
       },
       "theme-table-text-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "default",
+        "type": "color",
+        "description": "Defines a text color for table cells. A value of default uses either the default text or reverse text color depending on the site background color."
       },
       "theme-table-unsorted-icon-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base",
+        "type": "color",
+        "description": "Defines a fill color for the unactivated sort button in a sortable column header."
       }
     },
     "tolltip": {
       "theme-tooltip-background-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "ink",
+        "type": "color",
+        "description": "Background color of tooltip."
       },
       "theme-tooltip-font-color": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "base-lightest",
+        "type": "color",
+        "description": "Text color of tooltip."
       },
       "theme-tooltip-font-size": {
-        "value": "",
-        "type": "",
-        "description": ""
+        "value": "xs",
+        "type": "size",
+        "description": "Font size of tooltip."
       }
     }
   },
   "spacing": {
     "theme-border-radius-sm": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "2px",
+      "type": "units",
+      "description": "Sets 'sm' border-radius theme token."
     },
     "theme-border-radius-md": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "0.5",
+      "type": "units",
+      "description": "Sets 'md' border-radius theme token."
     },
     "theme-border-radius-lg": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "1",
+      "type": "units",
+      "description": "Sets 'lg' border-radius theme token."
     },
     "theme-column-gap-sm": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "2px",
+      "type": "units",
+      "description": "Sets 'grid-gap-sm' token."
     },
     "theme-column-gap-md": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "2",
+      "type": "units",
+      "description": "Sets 'grid-gap-md' token."
     },
     "theme-column-gap-lg": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "3",
+      "type": "units",
+      "description": "Sets 'grid-gap-lg' token."
     },
     "theme-column-gap-mobile": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "2",
+      "type": "units",
+      "description": "Sets value of 'grid-gap' at mobile width."
     },
     "theme-column-gap-desktop": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "desktop",
+      "type": "units",
+      "description": "Sets value of 'grid-gap' at desktop width."
     },
     "theme-grid-container-max-width": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "desktop",
+      "type": "unit",
+      "description": "Sets the max-width value of the .grid-container utility."
     },
     "theme-site-margins-breakpoint": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "desktop",
+      "type": "units",
+      "description": "The breakpoint at which the site’s outer margin changes."
     },
     "theme-site-margins-width": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "4",
+      "type": "units",
+      "description": "Site outer margin at non-mobile width (breakpoint defined by $theme-site-margins-breakpoint)."
     },
     "theme-site-margins-mobile-width": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "2",
+      "type": "units",
+      "description": "Site outer margin at mobile width (breakpoint defined by $theme-site-margins-breakpoint)."
     }
   },
   "typography": {
     "theme-respect-user-font-size": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "true",
+      "type": "boolean",
+      "description": "When true the root font size will be 100% and media queries use ems. When false, the root font size will be the px value specified in $theme-root-font-size and media queries will use px values."
     },
     "theme-root-font-size": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "10px",
+      "type": "units",
+      "description": "Only applies when $theme-respect-user-font-size is false. Set the root font size to the specified px value and use px values for media queries."
     },
     "theme-global-paragraph-styles": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "Add basic styling to p elements."
     },
     "theme-global-link-styles": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "Add basic styling to a elements."
     },
     "theme-global-content-styles": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "Add basic styling to paragraph text, links, headings, lists, and tables."
     },
     "theme-font-path": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "../fonts",
+      "type": "path",
+      "description": "Path to the font files, relative to the compiled CSS."
     },
     "theme-font-browser-compatibility": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "Output additional font formats (woff and ttf) to support IE11."
     },
     "theme-typeface-tokens": {
       "value": "",
-      "type": "",
-      "description": ""
+      "type": "map",
+      "description": "Add custom typeface tokens."
     },
     "theme-font-type-cond": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "Project condensed font. Set to false if unused."
     },
     "theme-font-type-icon": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "family",
+      "description": "Project icon font. Set to false if unused."
     },
     "theme-font-type-lang": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "family",
+      "description": "Project language-specific font. Set to false if unused."
     },
     "theme-font-type-mono": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "roboto-mono",
+      "type": "family",
+      "description": "Project monospaced font. Set to false if unused."
     },
     "theme-font-type-sans": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "source-sans-pro",
+      "type": "fanily",
+      "description": "Project sans-serif font. Set to false if unused."
     },
     "theme-font-type-serif": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "merriweather",
+      "type": "family",
+      "description": "Project serif font. Set to false if unused."
     },
     "theme-font-role-ui": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "sans",
+      "type": "family",
+      "description": "Assign font family used for interfaces and buttons from type-based family tokens."
     },
     "theme-font-role-heading": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "serif",
+      "type": "family",
+      "description": "Assign font family used for headings from type-based family tokens."
     },
     "theme-font-role-body": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "sans",
+      "type": "family",
+      "description": "Assign font family used for body text from type-based family tokens."
     },
     "theme-font-role-code": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "mono",
+      "type": "family",
+      "description": "Assign font family used for code from type-based family tokens."
     },
     "theme-font-role-alt": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "serif",
+      "type": "family",
+      "description": "Assign font family used for alternative type sections from type-based family tokens."
     },
     "theme-type-scale-3xs": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "2",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-2xs": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "3",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-xs": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "4",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-sm": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "5",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-md": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "6",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-lg": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "9",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-xl": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "12",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-2xl": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "14",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-type-scale-3xl": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "15",
+      "type": "size",
+      "description": "Use system size tokens. Use false if unused."
     },
     "theme-font-weight-thin": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "weight",
+      "description": "Use system weight tokens. Use false if unused."
     },
     "theme-font-weight-light": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "300",
+      "type": "weight",
+      "description": "Use system weight tokens. Use false if unused."
     },
     "theme-font-weight-normal": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "400",
+      "type": "weight",
+      "description": "Use system weight tokens. Use false if unused."
     },
     "theme-font-weight-medium": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "weight",
+      "description": "Use system weight tokens. Use false if unused."
     },
     "theme-font-weight-semibold": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "weight",
+      "description": "Use system weight tokens. Use false if unused."
     },
     "theme-font-weight-bold": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "700",
+      "type": "weight",
+      "description": "Use system weight tokens. Use false if unused."
     },
     "theme-font-weight-heavy": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "weight",
+      "description": "Use system weight tokens. Use false if unused."
     },
     "theme-generate-all-weights": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "If USWDS is generating @font-face rules, generate all available weights regardless of the assignments above."
     },
     "theme-font-cond-custom-stack": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "font stack",
+      "description": "Custom font stack for condensed font. Set to false if unused."
     },
     "theme-font-icon-custom-stack": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "font stack",
+      "description": "Custom font stack for condensed font. Set to false if unused."
     },
     "theme-font-lang-custom-stack": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "font stack",
+      "description": "Custom font stack for condensed font. Set to false if unused."
     },
     "theme-font-mono-custom-stack": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "font stack",
+      "description": "Custom font stack for condensed font. Set to false if unused."
     },
     "theme-font-sans-custom-stack": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "font stack",
+      "description": "Custom font stack for condensed font. Set to false if unused."
     },
     "theme-font-serif-custom-stack": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "font stack",
+      "description": "Custom font stack for condensed font. Set to false if unused."
     },
     "theme-font-[family]-custom-src": {
       "value": "",
-      "type": "",
-      "description": ""
+      "type": "map",
+      "description": "If you want USWDS to generate additional @font-face declarations, add your font data to the following variables as a map with these keys. You must include fonts saved as .woff2. Include .ttf and .woff fonts as well if $theme-font-browser-compatibility is set to true. Instructions can be found on the font-family page."
     },
     "theme-font-cond-custom-src": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "map",
+      "description": "See guidance above. Set to false if unused."
     },
     "theme-font-icon-custom-src": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "map",
+      "description": "See guidance above. Set to false if unused."
     },
     "theme-font-lang-custom-src": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "map",
+      "description": "See guidance above. Set to false if unused."
     },
     "theme-font-mono-custom-src": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "map",
+      "description": "See guidance above. Set to false if unused."
     },
     "theme-font-sans-custom-src": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "map",
+      "description": "See guidance above. Set to false if unused."
     },
     "theme-font-serif-custom-src": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "map",
+      "description": "See guidance above. Set to false if unused."
     },
     "theme-body-font-family": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "body",
+      "type": "famnily",
+      "description": "Use theme tokens when possible."
     },
     "theme-body-font-size": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "sm",
+      "type": "size",
+      "description": "Use theme tokens when possible."
     },
     "theme-body-line-height": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "5",
+      "type": "line-height",
+      "description": "Use theme tokens when possible."
     },
     "theme-style-body-element": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "Add explicit body styles to the body element."
     },
     "theme-h1-font-size": {
-      "value": "",
-      "type": "",
+      "value": "2xl",
+      "type": "size",
       "description": ""
     },
     "theme-h2-font-size": {
-      "value": "",
-      "type": "",
+      "value": "xl",
+      "type": "size",
       "description": ""
     },
     "theme-h3-font-size": {
-      "value": "",
-      "type": "",
+      "value": "lg",
+      "type": "size",
       "description": ""
     },
     "theme-h4-font-size": {
-      "value": "",
-      "type": "",
+      "value": "sm",
+      "type": "size",
       "description": ""
     },
     "theme-h5-font-size": {
-      "value": "",
-      "type": "",
+      "value": "xs",
+      "type": "size",
       "description": ""
     },
     "theme-h6-font-size": {
-      "value": "",
-      "type": "",
+      "value": "3xs",
+      "type": "size",
       "description": ""
     },
     "theme-heading-line-height": {
-      "value": "",
-      "type": "",
+      "value": "2",
+      "type": "line-height",
       "description": ""
     },
     "theme-small-font-size": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "2xs",
+      "type": "size",
+      "description": "Used for the smallest text on a site."
     },
     "theme-display-font-size": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "3xl",
+      "type": "size",
+      "description": "Used for the largest text on a site."
     },
     "theme-text-measure-narrow": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "1",
+      "type": "measure",
+      "description": "Narrow line length."
     },
     "theme-text-measure": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "4",
+      "type": "measure",
+      "description": "Standard line length."
     },
     "theme-text-measure-wide": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "6",
+      "type": "measure",
+      "description": "Wide line length."
     },
     "theme-prose-font-family": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "body",
+      "type": "family",
+      "description": "Font family used for body text in usa-prose. Use role-based family tokens."
     },
     "theme-lead-font-family": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "lg",
+      "type": "family",
+      "description": "Font family of intro text."
     },
     "theme-lead-font-size": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "lg",
+      "type": "size",
+      "description": "Font size of intro text."
     },
     "theme-lead-line-height": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "6",
+      "type": "line-height",
+      "description": "Line height of intro text."
     },
     "theme-lead-measure": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "6",
+      "type": "measure",
+      "description": "Line length of intro text."
     }
   },
   "utilities": {
     "$utilities-use-important": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "false",
+      "type": "boolean",
+      "description": "Output all utilities with !important. This can be necessary if you intend utilities to override existing styles."
     },
     "$output-these-utilities": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "default",
+      "type": "list",
+      "description": "Include a list of all utility modules to output. Ex: ('align-items', 'border', 'margin', 'padding'). default includes all utilities."
     },
     "$theme-utility-breakpoints": {
       "value": "",
-      "type": "",
-      "description": ""
+      "type": "map",
+      "description": "Set which mobile-first breakpoints are output for the utilities."
     },
     "$global-color-palettes": {
       "value": "",
-      "type": "",
-      "description": ""
+      "type": "palettes",
+      "description": "Any palettes added to this list will output in the the following utilities: background-color, border-color, color, text-decoration-color."
     },
     "$[utility-module]-settings": {
-      "value": "",
-      "type": "",
-      "description": ""
+      "value": "palette-[utility-module]-default",
+      "type": "map",
+      "description": "Control the output of a [utility-module] and its responsive and state variants."
     },
     "$[utility-module]-palettes": {
       "value": "",
-      "type": "",
-      "description": ""
+      "type": "palettes",
+      "description": "Utilities output with the values set in the palettes list."
+    },
+    "$[utility-module]-manual-values": {
+      "value": "",
+      "type": "map",
+      "description": "Utilities output with the tokens and values set in the manual values map."
     }
   }
 }
