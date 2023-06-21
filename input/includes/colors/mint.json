@@ -1,0 +1,70 @@
+{
+    "mint": {
+        "10": {
+          "value": "#dbf6ed",
+          "type": "color"
+        },
+        "20": {
+          "value": "#c7efe2",
+          "type": "color"
+        },
+        "30": {
+          "value": "#92d9bb",
+          "type": "color"
+        },
+        "40": {
+          "value": "#5abf95",
+          "type": "color"
+        },
+        "50": {
+          "value": "#34a37e",
+          "type": "color"
+        },
+        "60": {
+          "value": "#2e8367",
+          "type": "color"
+        },
+        "70": {
+          "value": "#286846",
+          "type": "color"
+        },
+        "80": {
+          "value": "#204e34",
+          "type": "color"
+        },
+        "90": {
+          "value": "#193324",
+          "type": "color"
+        },
+        "vivid": {
+          "10": {
+            "value": "#c9fbeb",
+            "type": "color"
+          },
+          "20": {
+            "value": "#83fcd4",
+            "type": "color"
+          },
+          "30": {
+            "value": "#0ceda6",
+            "type": "color"
+          },
+          "40": {
+            "value": "#04c585",
+            "type": "color"
+          },
+          "50": {
+            "value": "#00a871",
+            "type": "color"
+          },
+          "60": {
+            "value": "#008659",
+            "type": "color"
+          },
+          "70": {
+            "value": "#146947",
+            "type": "color"
+          }
+        }
+      }
+}
