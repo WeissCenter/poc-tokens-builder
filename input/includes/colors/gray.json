@@ -1,0 +1,64 @@
+{
+    "gray": {
+        "10": {
+          "value": "#fcfcfc",
+          "type": "color"
+        },
+        "20": {
+          "value": "#f9f9f9",
+          "type": "color"
+        },
+        "30": {
+          "value": "#f6f6f6",
+          "type": "color"
+        },
+        "40": {
+          "value": "#f3f3f3",
+          "type": "color"
+        },
+        "50": {
+          "value": "#f0f0f0",
+          "type": "color"
+        },
+        "60": {
+          "value": "#e6e6e6",
+          "type": "color"
+        },
+        "70": {
+          "value": "#c9c9c9",
+          "type": "color"
+        },
+        "80": {
+          "value": "#adadad",
+          "type": "color"
+        },
+        "90": {
+          "value": "#919191",
+          "type": "color"
+        },
+        "100": {
+          "value": "#757575",
+          "type": "color"
+        },
+        "110": {
+          "value": "#5c5c5c",
+          "type": "color"
+        },
+        "120": {
+          "value": "#454545",
+          "type": "color"
+        },
+        "130": {
+          "value": "#2e2e2e",
+          "type": "color"
+        },
+        "140": {
+          "value": "#1b1b1b",
+          "type": "color"
+        },
+        "150": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+}
