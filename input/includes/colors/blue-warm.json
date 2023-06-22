@@ -1,5 +1,4 @@
 {
-    "blue-warm": {
         "10": {
           "value": "#ecf1f7",
           "type": "color"
@@ -79,4 +78,3 @@
           }
         }
       }
-}

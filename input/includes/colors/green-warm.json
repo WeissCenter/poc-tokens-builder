@@ -1,5 +1,4 @@
 {
-    "green-warm": {
         "10": {
           "value": "#f1f4d7",
           "type": "color"
@@ -75,4 +74,3 @@
           }
         }
       }
-}

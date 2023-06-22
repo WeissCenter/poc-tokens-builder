@@ -1,5 +1,4 @@
 {
-    "red-warm": {
         "10": {
           "value": "#f6efea",
           "type": "color"
@@ -75,4 +74,3 @@
           }
         }
       }
-}

@@ -1,5 +1,4 @@
 {
-    "gray": {
         "10": {
           "value": "#fcfcfc",
           "type": "color"
@@ -61,4 +60,3 @@
           "type": "color"
         }
       }
-}

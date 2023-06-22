@@ -1,5 +1,4 @@
 {
-    "indigo-warm": {
         "10": {
           "value": "#f1eff7",
           "type": "color"
@@ -75,4 +74,3 @@
           }
         }
       }
-}

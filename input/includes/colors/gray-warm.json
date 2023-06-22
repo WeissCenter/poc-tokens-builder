@@ -1,5 +1,4 @@
 {
-    "gray-warm": {
         "10": {
           "value": "#fcfcfb",
           "type": "color"
@@ -57,4 +56,3 @@
           "type": "color"
         }
       }
-}
