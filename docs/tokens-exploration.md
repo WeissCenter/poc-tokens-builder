@@ -2,10 +2,36 @@
 
 by Marcelo Paiva
 
+Accessibility tokens are design tools used to create user interfaces (UIs) that are accessible and user-friendly for all individuals, regardless of any visual, auditory, cognitive, or physical disabilities they may have. These tokens encapsulate the best practices from the Web Content Accessibility Guidelines (WCAG), an internationally recognized set of recommendations for improving web accessibility.
 
-These are tokens ideas on how each WCAG success criterion could each have a possible token. Note that some criteria pertain to aspects of UX or content design beyond visual styling (such as form validation or time limits), so not all criteria can be represented directly as CSS tokens. However, they may guide broader design decisions or inform creation of JavaScript functions, for instance.
+These design tokens are similar to variables in programming. They represent reusable, atomic elements, such as colors, spacing, typography, or contrast, that can be referenced across different parts of an interface design. By applying these tokens, designers can ensure that their products meet various accessibility standards, thus providing a more inclusive user experience.
 
-## 1. **Perceivable**
+The tokens are typically mapped to specific WCAG criteria and are used to create consistent, accessible experiences across different parts of a product. They encapsulate considerations such as:
+
+* Text size and spacing for low-vision users.
+* Contrast levels for users with color vision deficiencies.
+* Keyboard-friendly navigation for users with motor impairments.
+* Understandable content and error prevention for users with cognitive impairments.
+
+Implementing these tokens within the design and development process can enhance the usability of web content for a wider range of people, promoting digital inclusivity. This wiki aims to document various accessibility tokens, their application, and their relation to WCAG guidelines, providing a valuable resource for designers and developers aiming to make their digital content more accessible.
+
+
+## Our Goal
+
+The primary objective of this exploration is to propose comprehensive and practical design tokens for each WCAG success criterion. The aim is not only to adhere to the accessibility guidelines but also to simplify the implementation process, making it more intuitive for designers and developers.
+
+The exploration approach is rooted in understanding the WCAG guidelines and translating them into meaningful, reusable design tokens. Each token is devised with a specific WCAG criterion in mind, which ensures that every aspect of web accessibility is given due consideration.
+
+We strive to provide clear definitions and practical examples of each token to aid comprehension and facilitate implementation. While WCAG guidelines serve as a robust foundation, the intention behind this exploration is to go beyond mere compliance. We aspire to encourage the design and development community to incorporate these tokens into their regular workflow, thus promoting the creation of more accessible digital experiences for all users.
+
+Ultimately, our goal is to bridge the gap between WCAG guidelines and everyday design practices, fostering a more inclusive and accessible digital landscape.
+
+
+## Accessibility Tokens Exploration
+
+The information presented here represents an effort to align accessibility tokens with each WCAG success criterion. As this exploration evolves, we are committed to providing thorough documentation for each token, complete with practical examples. To ensure the effectiveness and accuracy of our approach, we look forward to engaging in discussions with the W3C community and receiving their valuable feedback.
+
+### 1. **Perceivable**
 
 - 1.1.1 Non-text Content A 2.0 - `AltTextToken`
 - 1.2.1 Audio-only and Video-only (Prerecorded) A 2.0 - `AltMediaToken`
@@ -37,7 +63,7 @@ These are tokens ideas on how each WCAG success criterion could each have a poss
 - 1.4.12 Text Spacing AA 2.1 - `TextSpacingToken`
 - 1.4.13 Content on Hover or Focus AA 2.1 - `HoverFocusContentToken`
 
-## 2. **Operable**
+### 2. **Operable**
 
 - 2.1.1 Keyboard A 2.0 - `KeyboardAccessibleToken`
 - 2.1.2 No Keyboard Trap A 2.0 - `NoTrapToken`
@@ -68,7 +94,7 @@ These are tokens ideas on how each WCAG success criterion could each have a poss
 - 2.5.5 Target Size AA 2.1 - `TargetSizeToken`
 - 2.5.6 Concurrent Input Mechanisms AAA 2.1 - `MultipleInputMethodsToken`
 
-## 3. **Understandable**
+### 3. **Understandable**
 
 - 3.1.1 Language of Page A 2.0 - `PageLanguageToken`
 - 3.1.2 Language of Parts AA 2.0 - `PartLanguageToken`
@@ -88,9 +114,10 @@ These are tokens ideas on how each WCAG success criterion could each have a poss
 - 3.3.5 Help AAA 2.0 - `HelpAvailabilityToken`
 - 3.3.6 Error Prevention (All) AAA 2.0 - `PreventAllErrorToken`
 
-## 4. **Robust**
+### 4. **Robust**
 
 - 4.1.1 Parsing A 2.0 - `SyntaxCheckToken`
 - 4.1.2 Name, Role, Value A 2.0 - `ElementInfoToken`
 - 4.1.3 Status Messages AA 2.1 - `StatusMessageToken`
+
 
